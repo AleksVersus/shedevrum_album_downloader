@@ -1,4 +1,4 @@
-# данный скрипт парсит произведение со стульчика
+# данный скрипт парсит альбомы с сайта shedevrum.ai
 import sys, os, json, random
 
 from playwright.sync_api import (sync_playwright, expect, Page)
